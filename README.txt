@@ -20,8 +20,8 @@ Enjoy!
 
 -David
 
-NOTE: For some reason, there are some .wav files that Java can not read, so
-if you are having trouble with using your personal .wav files, feel free to use the ones I packed.
+NOTE: For some reason, there are some .wav files that Java can not read, so if you are having trouble with using your
+personal .wav files, feel free to use the ones I packed, or you could record your own in program.
 
 Hotkeys
 -------
